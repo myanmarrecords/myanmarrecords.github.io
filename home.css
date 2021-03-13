@@ -59,12 +59,16 @@ td{
 }
 
 .date{
-    font-size: 15px;
-    color: blac;
+    font-size: 30px;
+    color: black;
     border-radius: 25px;
     border: 0.1vh solid black;
     background-color: white;
     padding: 5px 15px
+}
+
+th{
+    font-size: 30px;
 }
   
   
